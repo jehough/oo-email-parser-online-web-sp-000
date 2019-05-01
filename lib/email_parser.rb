@@ -13,5 +13,3 @@ class EmailParser
     email_list.uniq
   end
 end
-
-    
